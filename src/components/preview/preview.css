@@ -1,0 +1,31 @@
+.no-preview-container {
+    min-height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-heading-section {
+    text-align: center;
+    border-radius: 0 0 20px 20px;
+    padding: 22px;
+    text-transform: capitalize;
+}
+.form-heading-section h5 {
+    color: gray;
+}
+.preview-answers {
+    margin: 20px auto;
+    width: 440px;
+    margin-top: 14px;
+    text-align: left;
+    padding: 27px;
+    box-shadow: rgb(60 64 67 / 30%) 0px 1px 2px 0px, rgb(60 64 67 / 15%) 0px 2px 6px 2px;
+}
+.preview-answers p {
+    font-size: 19px;
+}
+.mand-text {
+    float: right;
+    font-size: 15px;
+    color: red;
+}

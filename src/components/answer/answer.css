@@ -1,0 +1,21 @@
+.answers-section .MuiFormControl-root {
+    display: flex;
+    width: 380px;
+    margin: 0 auto;
+}
+h6 {
+    width: 227px;
+    margin: 0 auto;
+    border-bottom: solid 1px;
+    color: darkcyan;
+}
+.form-builder-section .MuiButton-text {
+    text-transform: capitalize;
+    color: #1976d2;
+}
+.add-option-section {
+    width: 69%;
+    margin: 0 auto;
+    margin-top: -16px;
+    display: inline;
+}
